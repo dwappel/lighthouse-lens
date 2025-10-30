@@ -1,0 +1,15 @@
+{
+  "name": "lighthouse-lens",
+  "version": "0.1.0",
+  "description": "Screenplay analysis software",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["screenplay", "analysis", "fountain"],
+  "author": "Your Name",
+  "license": "SEE LICENSE",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}
