@@ -13,3 +13,5 @@ package-lock.json
 # Build outputs
 dist/
 build/
+
+third-party/
